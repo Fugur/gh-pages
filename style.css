@@ -1,0 +1,85 @@
+.btn {
+	height: 50px;
+	width: 150px;
+	border-radius: 30%;
+	border: 1px solid rgb(16, 75, 16);
+	background-color: white;
+	margin-left: 30px;
+	transition: 0.3s ease-out 0.001s;
+	outline: none;
+}
+.btn:hover {
+	transform: scale(1.45);
+	background-color: rgb(16, 75, 16);
+	color: white;
+}
+
+.block-bu {
+	text-align: center;
+	margin-right: 30px;
+}
+
+.logo-img {
+	height: 250px;
+}
+.block-lo {
+	text-align: center;
+}
+.block-wh {
+	text-align: center;
+	max-width: 800px;
+	margin: 0 auto;
+}
+hr {
+	margin-top: 100px;
+	border: 2px solid black;
+}
+h1 {
+	font-size: 70px;
+}
+.b-small {
+	text-align: center;
+}
+.p-size1 {
+	font-size: 20px;
+}
+table {
+	border: 1px solid black;
+	margin-top: 50px;
+	width: 100%;
+	text-align: center;
+	font-size: 40px;
+}
+td {
+color: red
+}
+#price {
+	text-align: center;
+}
+.btn-2 {
+	background: none;
+	color: red;
+	text-align: center;
+	height: 40px;
+	width: 100px;
+	border: 0px;
+	font-size: 20px;
+	outline: none;
+	transition: 0.3s ease-out 0.001s;
+}
+.btn-2:hover {
+	color: red;
+	text-align: center;
+	transform: scale(1.45);
+	border: 0px;
+	font-size: 25px;
+	outline: none;
+}
+#text {
+	text-align: center;
+	font-size: 30px;
+}
+#silka {
+	text-decoration: none;
+	color: rgb(16, 75, 16);
+}
